@@ -12,7 +12,7 @@
        - Unstable SIM Service Cause by VoLTE Crash
 - Removed User Data Encryption
 - Debloated
-
+- That's all for now
 ### 📄 Flashing Guide 
 - Make sure your Bootloader is unlocked and have a patched Vbmeta
 - Make sure you have a Custom Recovery with "fastbootd" Support
