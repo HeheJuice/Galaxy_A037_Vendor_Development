@@ -20,6 +20,7 @@
 ### 📄 Flashing Guide 
 - Make sure your Bootloader is unlocked and have a patched Vbmeta
 - Make sure you have a Custom Recovery with "fastbootd" Support
+- Basic Android and Window Knowledge Required 
 - Use Platform-Tools on your PC and connect to your phone
 - Use the command
      - fastboot erase vendor
