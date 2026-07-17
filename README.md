@@ -3,7 +3,7 @@
 </h1>
 
 ### 🗺️ Galaxy A03s Vendor Development
-- Custom Vendor Build for Samsung Galaxy A03s
+- Custom Vendor With Basic Modification for Samsung Galaxy A03s
 - Support Models
   - A037F
   - A037M
