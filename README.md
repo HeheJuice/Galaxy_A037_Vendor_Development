@@ -1,6 +1,7 @@
 <h1 align="center">
   <img loading="lazy" src="BannerA03s.png"/>
 </h1>
+
 ### 🗺️ Galaxy A03s Vendor Development
 - Custom Vendor Build for Samsung Galaxy A03s
 - Support Models
