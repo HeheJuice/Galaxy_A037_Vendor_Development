@@ -1,0 +1,2 @@
+signature,file,startline,startcol,endline,endcol,properties
+Lcom/android/server/usage/Flags;->avoidIdleCheck()Z,out/soong/.intermediates/frameworks/base/apex/jobscheduler/service/aconfig/service-jobscheduler-appidle.flags-aconfig-java/android_common/051da283c2d8d31e68dd895cfce79abc/javac/srcjars/com/android/server/usage/Flags.java,10,5,10,25,
