@@ -25,3 +25,6 @@
    - Make sure to include Credit with Link to this GitHub Page
 - Modification Based on this Vendor is allowed
    - Make sure to include Credit with Link to this GitHub Page
+
+### 🤓 Credits 
+- Samsung For the Base Vendor
