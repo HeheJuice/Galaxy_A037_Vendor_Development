@@ -18,6 +18,12 @@
 - Debloated
 - That's all for now
 ### 📄 Flashing Guide 
+
+> [!IMPORTANT]
+> * `Get notified yourself that I am not responsible for bricked devices, dead SD cards, thermonuclear war, or you getting fired because the alarm app failed.`
+> * `Please do some research if you have any concerns about features included in this Vendor before flashing it!`
+> * `YOU are choosing to make these modifications,and if you point the finger at me for messing up your device,I will laugh at you.`
+
 - Make sure your Bootloader is unlocked and have a patched Vbmeta
 - Make sure you have a Custom Recovery with "fastbootd" Support
 - Basic Android and Window Knowledge Required 
