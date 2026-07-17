@@ -1,3 +1,0 @@
-signature,file,startline,startcol,endline,endcol,properties
-Lcom/android/server/alarm/FeatureFlagsImpl;->startUserBeforeScheduledAlarms()Z,out/soong/.intermediates/frameworks/base/apex/jobscheduler/service/aconfig/service-jobscheduler-alarm.flags-aconfig-java/android_common/051da283c2d8d31e68dd895cfce79abc/javac/srcjars/com/android/server/alarm/FeatureFlagsImpl.java,8,5,8,25,
-Lcom/android/server/alarm/FeatureFlagsImpl;->useFrozenStateToDropListenerAlarms()Z,out/soong/.intermediates/frameworks/base/apex/jobscheduler/service/aconfig/service-jobscheduler-alarm.flags-aconfig-java/android_common/051da283c2d8d31e68dd895cfce79abc/javac/srcjars/com/android/server/alarm/FeatureFlagsImpl.java,15,5,15,25,

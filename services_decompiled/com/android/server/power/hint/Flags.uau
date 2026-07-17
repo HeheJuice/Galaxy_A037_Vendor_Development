@@ -1,3 +1,0 @@
-signature,file,startline,startcol,endline,endcol,properties
-Lcom/android/server/power/hint/Flags;->adpfSessionTag()Z,out/soong/.intermediates/frameworks/base/services/core/java/com/android/server/power/hint/power_hint_flags_lib/android_common/051da283c2d8d31e68dd895cfce79abc/javac/srcjars/com/android/server/power/hint/Flags.java,12,5,12,25,
-Lcom/android/server/power/hint/Flags;->powerhintThreadCleanup()Z,out/soong/.intermediates/frameworks/base/services/core/java/com/android/server/power/hint/power_hint_flags_lib/android_common/051da283c2d8d31e68dd895cfce79abc/javac/srcjars/com/android/server/power/hint/Flags.java,18,5,18,25,

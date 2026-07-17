@@ -1,2 +1,0 @@
-signature,file,startline,startcol,endline,endcol,properties
-Lcom/android/server/power/batterysaver/Flags;->updateAutoTurnOnNotificationStringAndAction()Z,out/soong/.intermediates/frameworks/base/services/core/java/com/android/server/power/batterysaver/battery_saver_flag_lib/android_common/2182f7e90d2d8b7ad311c745e7de42e1/javac/srcjars/com/android/server/power/batterysaver/Flags.java,10,5,10,25,
